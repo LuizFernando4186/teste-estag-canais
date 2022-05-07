@@ -1,3 +1,9 @@
 id_transferencia|valor_transferencia|tipo_transferencia|nome_emissor|agencia_emissor|conta_emissor|cpf_emissor|nome_receptor|agencia_receptor|conta_receptor|cpf_receptor
 
-1|500|PIX|Joao|001|1234|123.123.123-12|Maria|002|1335|112.113.114-15
+1|500|PIX|João|001|1234|123.123.123-12|Maria|002|1335|112.113.114-15
+2|11000|DOC|Lucas|001|1234|123.123.123-12|Maria|002|1335|112.113.114-15
+3|5001|TED|João|002|1234|123.123.123-12|Maria|002|1234|112.113.114-15
+4|5000|PIX|Luiz|001|1234|123.123.123-|Maria|001|1335|112.113.114-15
+5|5000|MAR|Luiz|001|1234|123.123.123-12|Maria|001|1335|112.113.114-15
+6|LUIZ|PIX|Luiz|001|1234|123.123.123-12|Maria|001|1335
+5|0|MAR|Luiz|001|1234|123.123.123-12|Maria|001|1335|112.113.114-15
